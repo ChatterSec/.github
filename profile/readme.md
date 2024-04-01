@@ -1,1 +1,1 @@
-# ![Chatter Security](./profile/banner.second.png)
+# ![Chatter Security](./profile/banner.third.png)
